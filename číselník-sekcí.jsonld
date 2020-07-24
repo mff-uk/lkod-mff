@@ -34,7 +34,9 @@
     "theme:GOVE"
   ],
   "koncept_euroVoc": [
-    "euroVoc:625"
+    "euroVoc:625",
+    "euroVoc:2175",
+    "euroVoc:4304"
   ],
   "specifikace": [
     "https://ofn.gov.cz/číselníky/"
