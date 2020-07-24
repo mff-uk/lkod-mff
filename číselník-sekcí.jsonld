@@ -1,16 +1,16 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/mzdové-třídy",
+  "iri": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/sekce",
   "typ": [
     "Datová sada"
   ],
   "název": {
-    "cs": "Číselník mzdových tříd",
-    "en": "Salary tariffs codelist"
+    "cs": "Číselník sekcí MFF UK",
+    "en": "Codelist of schools of FMP CU"
   },
   "popis": {
-    "cs": "Číselník mzdových tříd",
-    "en": "Salary tariffs codelist"
+    "cs": "Číselník sekcí MFF UK",
+    "en": "Codelist of schools of FMP CU"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -19,20 +19,17 @@
   "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
-      "mzda",
-      "mzdová třída",
+      "sekce",
       "číselník"
     ],
     "en": [
-      "salary",
-      "salary tariff",
+      "school",
       "codelist"
     ]
   },
   "periodicita_aktualizace": "frequency:IRREG",
   "téma": [
-    "theme:GOVE",
-    "theme:TECH"
+    "theme:GOVE"
   ],
   "koncept_euroVoc": [
     "euroVoc:625"
@@ -50,7 +47,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/mzdové-třídy.ttl",
+      "soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/sekce.ttl",
       "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
       "formát": "format:RDF_TURTLE",
       "podmínky_užití": {
@@ -74,7 +71,7 @@
         "název": {
           "cs": "SPARQL endpoint"
         },
-        "http://www.w3.org/ns/dcat#servesDataset": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/mzdové-třídy"
+        "http://www.w3.org/ns/dcat#servesDataset": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/sekce"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
