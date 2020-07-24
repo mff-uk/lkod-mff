@@ -6,11 +6,11 @@
   ],
   "název": {
     "cs": "Číselník sekcí MFF UK",
-    "en": "Codelist of schools of FMP CU"
+    "en": "Codelist of schools of FMP CUNI"
   },
   "popis": {
-    "cs": "Číselník sekcí MFF UK",
-    "en": "Codelist of schools of FMP CU"
+    "cs": "Číselník sekcí Matematicko-fyzikální fakulty Univerzity Karlovy",
+    "en": "Codelist of schools of the Faculty of Mathematics and Physics of the Charles University"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -20,6 +20,8 @@
   "klíčové_slovo": {
     "cs": [
       "sekce",
+      "MFF",
+      "matfyz",
       "číselník"
     ],
     "en": [
