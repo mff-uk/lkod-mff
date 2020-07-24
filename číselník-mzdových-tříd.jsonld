@@ -1,17 +1,17 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/platové-třídy",
+  "iri": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/mzdové-třídy",
   "typ": [
     "Datová sada",
     "https://data.gov.cz/slovník/nkod/typ-datové-sady-dle-zdroje/Formulář"
   ],
   "název": {
-    "cs": "Číselník platových tříd",
-    "en": "Salary classes codelist"
+    "cs": "Číselník mzdofých tříd",
+    "en": "Salary tariffs codelist"
   },
   "popis": {
-    "cs": "Číselník platových tříd",
-    "en": "Salary classes codelist"
+    "cs": "Číselník mzdových tříd",
+    "en": "Salary tariffs codelist"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -20,13 +20,13 @@
   "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
-      "plat",
-      "platová třída",
+      "mzda",
+      "mzdová třída",
       "číselník"
     ],
     "en": [
       "salary",
-      "salary class",
+      "salary tariff",
       "codelist"
     ]
   },
@@ -51,7 +51,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/platové-třídy.ttl",
+      "soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/mzdové-třídy.ttl",
       "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
       "formát": "format:RDF_TURTLE",
       "podmínky_užití": {
@@ -75,7 +75,7 @@
         "název": {
           "cs": "SPARQL endpoint"
         },
-        "http://www.w3.org/ns/dcat#servesDataset": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/platové-třídy"
+        "http://www.w3.org/ns/dcat#servesDataset": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/mzdové-třídy"
       },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
