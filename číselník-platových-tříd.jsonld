@@ -1,0 +1,89 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/platové-třídy",
+  "typ": [
+    "Datová sada",
+    "https://data.gov.cz/slovník/nkod/typ-datové-sady-dle-zdroje/Formulář"
+  ],
+  "název": {
+    "cs": "Číselník platových tříd",
+    "en": "Salary classes codelist"
+  },
+  "popis": {
+    "cs": "Číselník platových tříd",
+    "en": "Salary classes codelist"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "plat",
+      "platová třída",
+      "číselník"
+    ],
+    "en": [
+      "salary",
+      "salary class"
+      "codelist",
+    ]
+  },
+  "periodicita_aktualizace": "frequency:IRREG",
+  "téma": [
+    "theme:GOVE",
+    "theme:TECH"
+  ],
+  "koncept_euroVoc": [
+    "euroVoc:625"
+  ],
+  "specifikace": [
+    "https://ofn.gov.cz/číselníky/"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Jakub Klímek"
+    },
+    "e-mail": "klimek@ksi.mff.cuni.cz"
+  },
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/platové-třídy.ttl",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
+      "formát": "format:RDF_TURTLE",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "název": {
+        "cs": "SPARQL endpoint"
+      },
+      "přístupové_url": "https://data.mff.cuni.cz/sparql",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://data.mff.cuni.cz/sparql",
+        "popis_přístupového_bodu": "https://data.mff.cuni.cz/sparql",
+        "název": {
+          "cs": "SPARQL endpoint"
+        },
+        "http://www.w3.org/ns/dcat#servesDataset": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/platové-třídy"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}
