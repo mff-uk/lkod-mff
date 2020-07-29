@@ -1,0 +1,89 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/akademické-pozice",
+  "typ": [
+    "Datová sada"
+  ],
+  "název": {
+    "cs": "Číselník akademických pozic na MFF UK",
+    "en": "Codelist of academic positions at FMP CUNI"
+  },
+  "popis": {
+    "cs": "Číselník akademických pozic na Matematicko-fyzikální fakultě Univerzity Karlovy",
+    "en": "Codelist of academic positions at the Faculty of Mathematics and Physics of the Charles University"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "akademická pozice",
+      "MFF",
+      "matfyz",
+      "číselník"
+    ],
+    "en": [
+      "academic position",
+      "codelist"
+    ]
+  },
+  "periodicita_aktualizace": "frequency:IRREG",
+  "téma": [
+    "theme:GOVE",
+    "theme:EDUC"
+  ],
+  "koncept_euroVoc": [
+    "euroVoc:100151",
+    "euroVoc:100217"
+  ],
+  "specifikace": [
+    "https://ofn.gov.cz/číselníky/"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Jakub Klímek"
+    },
+    "e-mail": "klimek@ksi.mff.cuni.cz"
+  },
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/akademické-pozice.ttl",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
+      "formát": "format:RDF_TURTLE",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "název": {
+        "cs": "SPARQL endpoint"
+      },
+      "přístupové_url": "https://data.mff.cuni.cz/sparql",
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://data.mff.cuni.cz/sparql",
+        "popis_přístupového_bodu": "https://data.mff.cuni.cz/sparql",
+        "název": {
+          "cs": "SPARQL endpoint"
+        },
+        "http://www.w3.org/ns/dcat#servesDataset": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/akademické-pozice"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}
