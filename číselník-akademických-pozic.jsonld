@@ -35,8 +35,7 @@
     "http://publications.europa.eu/resource/authority/data-theme/EDUC"
   ],
   "koncept_euroVoc": [
-    "http://eurovoc.europa.eu/100151",
-    "http://eurovoc.europa.eu/100217"
+    "http://eurovoc.europa.eu/100151"
   ],
   "specifikace": [
     "https://ofn.gov.cz/číselníky/"
