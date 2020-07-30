@@ -29,13 +29,13 @@
       "codelist"
     ]
   },
-  "periodicita_aktualizace": "frequency:IRREG",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
   "téma": [
-    "theme:GOVE"
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
   "koncept_euroVoc": [
-    "euroVoc:2175",
-    "euroVoc:4304"
+    "http://eurovoc.europa.eu/2175",
+    "http://eurovoc.europa.eu/4304"
   ],
   "specifikace": [
     "https://ofn.gov.cz/číselníky/"
@@ -52,7 +52,7 @@
       "typ": "Distribuce",
       "soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/sekce.ttl",
       "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
-      "formát": "format:RDF_TURTLE",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
