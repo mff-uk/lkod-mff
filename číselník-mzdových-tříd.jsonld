@@ -60,6 +60,34 @@
 				"databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
 				"osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
 			}
+		},{
+			"typ": "Distribuce",
+			"iri": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/mzdové-třídy/distribuce/csv",
+			"soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/mzdové-třídy.csv",
+			"přístupové_url": "https://data.mff.cuni.cz/soubory/číselníky/mzdové-třídy.csv",
+			"typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+			"formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+			"podmínky_užití": {
+				"typ": "Specifikace podmínek užití",
+				"autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+				"databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+				"databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+				"osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+			}
+		},{
+			"typ": "Distribuce",
+			"iri": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/mzdové-třídy/distribuce/json-ld",
+			"soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/mzdové-třídy.jsonld",
+			"přístupové_url": "https://data.mff.cuni.cz/soubory/číselníky/mzdové-třídy.jsonld",
+			"typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+			"formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+			"podmínky_užití": {
+				"typ": "Specifikace podmínek užití",
+				"autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+				"databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+				"databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+				"osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+			}
 		},
 		{
 			"typ": "Distribuce",
