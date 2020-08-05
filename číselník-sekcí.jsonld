@@ -65,6 +65,7 @@
 			"iri": "https://data.mff.cuni.cz/zdroj/datové-sady/číselníky/sekce/distribuce/csv",
 			"soubor_ke_stažení": "https://data.mff.cuni.cz/soubory/číselníky/sekce.csv",
 			"přístupové_url": "https://data.mff.cuni.cz/soubory/číselníky/sekce.csv",
+			"schéma": "https://data.mff.cuni.cz/soubory/číselníky/sekce.csv-metadata.json",
 			"typ_média": "http://www.iana.org/assignments/media-types/text/csv",
 			"formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
 			"podmínky_užití": {
